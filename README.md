@@ -2,7 +2,7 @@
 
 ### Currently working on
 - [Papertrail](https://github.com/andressantiago/papertrail) - A simple-to-use RAG chat.
-- Recruiter Experience updates for [Behance](behance.net)
+- Recruiter Experience updates for [Behance](https://www.behance.net)
 
 ### Experience
 - Frontend Engineer @ Adobe | Behance
