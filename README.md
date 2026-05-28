@@ -12,4 +12,4 @@
 - Android Engineer @ Blue Bite
 
 ### How to reach me
-Feel free to (dm me)[https://x.com/AndresInProd] on X!
+Feel free to [dm me](https://x.com/AndresInProd) on X!
