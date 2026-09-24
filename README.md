@@ -1,7 +1,7 @@
 ## Hi, I'm Andrés!
 
 ### Currently working on
-- [Papertrail](https://github.com/andressantiago/papertrail) - Dead simple RAG chat.
+- [hackerbarrel](https://www.hackerbarrel.com/) - Free tools for software developers.
 - Recruiter Experience updates for [Behance](https://www.behance.net)
 
 ### Experience
